@@ -1,4 +1,4 @@
-# Decoding AirBnb Prices using Predictive Analytics
+# Decoding AirBnb Price Patterns using Predictive Analytics
 
 <img width="536" alt="Screenshot 2024-05-17 072822" src="https://github.com/Pratyusha3Purdue/Air-Bnb-Price-Prediction/assets/141969918/a0c0ca83-1aa6-44b1-80f5-bba56fb01d8d">
 
