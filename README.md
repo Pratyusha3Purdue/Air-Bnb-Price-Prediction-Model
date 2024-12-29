@@ -4,7 +4,7 @@ Problem Statement: To Unvcoer the impacts of Covid-19 Airbnb
 
 Dataset Overview:
 
-The dataset includes AirBnb data from two cities, New York and Chicago. The data is from 2010 till 2024, Covering the timeperiod before during and after Covid.
+The dataset includes AirBnb data from two cities, New York and Seatlle. The data is from 2010 till 2024, Covering the timeperiod before during and after Covid.
 
 Methodology:
 
