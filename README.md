@@ -15,7 +15,7 @@ The dataset includes AirBnb data from two cities, New York and Seatlle. The data
   • Classified the data entries as Before , During Covid or After based on: 
       if they were recorded before Dec 2019 : Before || between Dec 2019 and Dec 2021 : During Covid || after 2021 : After
 
-3. EDA:
+2. EDA:
   • To find the number of Unique hosts and Unique listings 
   • Listings Count by Room Type and Property type
   • Plot categorical variables and numerical variables
@@ -23,25 +23,27 @@ The dataset includes AirBnb data from two cities, New York and Seatlle. The data
   • Plotted price trends over time, focusing on the COVID-19 periods.
   • Analyzed review comments of the 1,000 most expensive listings to find commonly used terms.
 
-4. Data Pre-Processing:
+3. Data Pre-Processing:
   • Handled missing values
   • Convert categorical variables to numerical using Label Encoding
   • Split the data into features and target
   • Split the data into training and testing sets (70-30 split)
 
-6. Model Building:
+4. Model Building:
  • Used LightGBM for model training and prediction.
  • Performed cross-validation to evaluate model performance.
  • Tuned hyperparameters using grid search.
  • Predicted Prices
  • Evaluated feature importance to understand the key drivers of price changes.
 
- 8. Evaluate reults:
- • Compared actual vs. predicted prices on both training and test datasets to assess model accuracy.
+ 5. Evaluate reults:
+    • Compared actual vs. predicted prices on both training and test datasets to assess model accuracy.
 
- 8.Findings & Recommendations :
+
+ 6. Findings & Recommendations :
  • Uncover the top factors affecting the prices and make suggestions based on the data.
-   
+ 
+
 
 
 <img width="757" alt="image" src="https://github.com/Pratyusha3Purdue/Air-Bnb-Price-Prediction-Model/assets/141969918/d49057d6-024e-4738-b995-e19231e767ee">
