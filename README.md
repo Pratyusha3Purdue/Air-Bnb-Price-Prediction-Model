@@ -36,6 +36,8 @@ The dataset includes AirBnb data from two cities, New York and Seatlle. The data
  • Evaluated feature importance to understand the key drivers of price changes.
  7. Evaluate reults:
  • Compared actual vs. predicted prices on both training and test datasets to assess model accuracy.
+8.Findings & Recommendations :
+ • Uncover the top factors affecting the prices and make suggestions based on the data.
    
 
 
