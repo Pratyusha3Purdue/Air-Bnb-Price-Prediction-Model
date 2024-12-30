@@ -1,8 +1,12 @@
 # Decoding COVID-19's Impact on AirBnb Price Patterns using Predictive Analytics
 
-## Problem Statement: To Unvcoer the impacts of Covid-19 Airbnb
+### Problem Statement: To Unvcoer the impacts of Covid-19 Airbnb
 
-### Dataset Overview:
+### Project Overview:
+
+We take data from Air Bnb from various time periods to understand how Covid has impacted the prices, learn the patterns to predict them and also what main contributing factors may influence the Prices
+
+### Dataset:
 
 The dataset includes AirBnb data from two cities, New York and Seatlle. The data is from 2010 till 2024, Covering the timeperiod before during and after Covid.
 
