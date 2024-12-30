@@ -28,15 +28,18 @@ The dataset includes AirBnb data from two cities, New York and Seatlle. The data
   • Convert categorical variables to numerical using Label Encoding
   • Split the data into features and target
   • Split the data into training and testing sets (70-30 split)
+
 6. Model Building:
  • Used LightGBM for model training and prediction.
  • Performed cross-validation to evaluate model performance.
  • Tuned hyperparameters using grid search.
  • Predicted Prices
  • Evaluated feature importance to understand the key drivers of price changes.
- 7. Evaluate reults:
+
+ 8. Evaluate reults:
  • Compared actual vs. predicted prices on both training and test datasets to assess model accuracy.
-8.Findings & Recommendations :
+
+ 8.Findings & Recommendations :
  • Uncover the top factors affecting the prices and make suggestions based on the data.
    
 
